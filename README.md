@@ -23,6 +23,7 @@ STEPS IN PROJECT:-
 11. Insights Generation
 
 📊 1. Credit Card Transaction Report – Business Questions
+
 💰 Overall Performance (KPIs)
 What is the total revenue generated from credit card transactions?
 What is the total transaction amount vs total interest earned?
